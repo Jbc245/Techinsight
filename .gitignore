@@ -1,0 +1,9 @@
+# Ignore the real local database connection file
+includes/db.php
+
+# Ignore local/editor files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
